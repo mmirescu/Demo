@@ -2,7 +2,7 @@
 
 Develop a Non-Linear Optimisation Model for Determining the Cost-Efficient Portfolio from the Technologies: Gas, Coal, Nuclear and Onshore Wind
 
-* Udacity - Machine Learning Nanodegree: Demo Example*
+*Udacity - Machine Learning Nanodegree: Demo Example*
 
 ## Project Overview
 
